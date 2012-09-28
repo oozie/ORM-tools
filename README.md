@@ -7,4 +7,5 @@ Tools for O'Reilly Media Books Authors
 
   http://oreillynet.com/oreilly/authors/welcome/illustrations.csp
 
-* doubles.py - A script that helps you detect double words and word pairs.
+* regex_tests.py - A set of naive, regex-based lexical tests for detecting common mistakes.
+
